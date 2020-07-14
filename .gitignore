@@ -1,0 +1,7 @@
+node_modules/
+
+# firestore credential
+yurie-s-api-firebase-adminsdk-l0y9d-d3907685b0.json
+
+# env file
+.env
